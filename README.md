@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Garima Singh
+
+🎓 B.Tech Computer Science Engineering student at GLA University, Mathura  
+💻 Passionate about Web Development, Open Source, and Problem Solving  
+🌱 Currently learning JavaScript, Git & GitHub, and modern web technologies  
+🚀 Aspiring Software Developer focused on continuous learning and real-world project building  
+🤝 Excited to collaborate, contribute, and grow through open source
 
 <!--
 **garima-25/garima-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
